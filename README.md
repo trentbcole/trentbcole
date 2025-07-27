@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @trentbcole
-- 👀 I’m interested in coding duh
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on nothing yet i'm not good enough
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me @trentbcole@gmail.com
 - ⚡ Fun fact: I've wrestled for 15 years
 
